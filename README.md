@@ -41,3 +41,4 @@ LecturerID (PK)
 COORDINATOR ────────── reviews/verifies ────────── CLAIM
 
 MANAGER ────────────── approves/rejects ────────── CLAIM
+i did not use javascript i needed it just to show the GUI prototype 
