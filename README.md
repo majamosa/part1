@@ -42,3 +42,5 @@ COORDINATOR ────────── reviews/verifies ──────�
 
 MANAGER ────────────── approves/rejects ────────── CLAIM
 i did not use javascript i needed it just to show the GUI prototype 
+the cmcs-gui-prototype.jsx is my gui prototype i dids not show you the sreensshot of it i just show you the code
+
